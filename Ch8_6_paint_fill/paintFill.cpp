@@ -2,6 +2,14 @@
 #include <vector>
 using namespace std;
 
+enum Colors 
+{
+	Black,
+	White,
+	Red,
+	Yellow,
+	Green	
+};
 
 
 int main()

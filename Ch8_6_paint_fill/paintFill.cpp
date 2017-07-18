@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 
+
 enum Colors 
 {
 	Black,
@@ -14,7 +15,7 @@ enum Colors
 
 int main()
 {
-	cout<<"This is the paintFill!"<<endl;
 
+	cout<<"This is the paintFill!"<<endl;
 	return 0;
 }
